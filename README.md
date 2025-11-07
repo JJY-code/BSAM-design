@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/23408991/README.md)
 # Bionic Soft Anisotropic Metamaterials for Replicating Tissue-Like Large-Deformation Mechanics under Diverse Loadings
 
 ## Project Overview
